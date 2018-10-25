@@ -7,8 +7,18 @@ public class challenge1 {
 	}
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		double [] array = {1,7,4,6,3,9,2,8};
+
+		int savingVariable = 0;
+
+		
+
+		for(int counter=array.length - 1; counter >= 0;counter--){
+
+			System.out.println(array[counter]);
+
+
 
 	}
 
-}
+}}
